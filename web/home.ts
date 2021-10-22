@@ -6,4 +6,4 @@ export const index =(req:Request,res:Response) =>{
             activeHome:true,
             title:"home"
       });
-}       
+}       ////Controllers

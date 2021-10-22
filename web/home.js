@@ -6,5 +6,5 @@ var index = function (req, res) {
         activeHome: true,
         title: "home"
     });
-};
+}; ////Controllers
 exports.index = index;
